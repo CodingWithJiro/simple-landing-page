@@ -1,4 +1,4 @@
-# 💻 Simple Landing Page
+# Simple Landing Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.simple-landing-page&left_text=repo%20views)
 
-## ℹ️ A Simple Mobile-Friendly Landing Page
+## A Simple Mobile-Friendly Landing Page
 
 | _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 | ------------------------------------------------ | --------------------------------------------------- |
@@ -27,7 +27,7 @@ A clean and mobile-friendly responsive landing page built using only semantic HT
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a simple African safari-themed webpage demonstrating the author's understanding of responsive layout design. It’s a practice project focusing on clean structure, accessibility, and media query usage.
 
@@ -35,7 +35,7 @@ The layout adapts to various screen sizes using Flexbox, and is fully functional
 
 ---
 
-## ✨ Features
+## Features
 
 - Mobile-first layout with media queries
 - Flexbox-based responsive sections
@@ -47,7 +47,7 @@ The layout adapts to various screen sizes using Flexbox, and is fully functional
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Creating layouts using Flexbox and nested containers
 - Organizing content with semantic HTML
@@ -58,7 +58,7 @@ The layout adapts to various screen sizes using Flexbox, and is fully functional
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -68,23 +68,23 @@ The layout adapts to various screen sizes using Flexbox, and is fully functional
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://simple-landing-page-jiro.netlify.app/)
+Or you can check out the **[live website here](https://simple-landing-page-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
